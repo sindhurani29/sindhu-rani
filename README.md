@@ -1,7 +1,7 @@
 # sindhu-rani
 ## Links to my Repository
-- source repository [Link](https://sindhurani29.github.io/sindhu-rani/)
-- hosted [page](https://github.com/sindhurani29/sindhu-rani)
+- source repository [Link](https://github.com/sindhurani29/sindhu-rani)
+- hosted [page](https://sindhurani29.github.io/sindhu-rani/)
 ## About
 This repo will be used for web application development 
 ##  Recommended Tools
