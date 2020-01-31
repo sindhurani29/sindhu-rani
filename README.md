@@ -3,7 +3,7 @@
 - source repository Link
 - hosted page
 ## About
-This repo will be used for web application development and some useful sources for web development
+This repo will be used for web application development 
 ##  Recommended Tools
 1. [Tortoise Git](https://tortoisegit.org/): It manages files which are saved in local repository(Push/pull in local machine)
 1. [GitHub account](https://help.github.com/en/github/getting-started-with-github/signing-up-for-a-new-github-account) for publishing   repository 
