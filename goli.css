@@ -1,8 +1,121 @@
-tg{
+*{
+    padding: 0px;
+    margin: 0px;
+}
+article
+    {
+        padding:  2em;
+    }
+section
+    {
+        margin: 1em;
+    }
+footer
+    {
+        background-color:rgb(231, 156, 191);
+        height: 10vh;
+        width: 100%;
+        color: blue;
+    
+    }
+    body {
+    margin: 0;
+}
+
+#profile_pic{
+    border-radius: 60%;
+    max-width: 30%;
+    display: block;
+    flex-basis: 30%;
+}
+
+nav ul li{
+    display: inline-flex;
+    padding: 5px;
+    background-color: rgb(158, 235, 107);
+    flex-basis: 15%;  
+}
+li a {
+    color:rgb(85, 14, 216);
+    border: rgb(21, 36, 245);
+   
+}
+#main_header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+aside{
+    flex-basis: 30%;
+    padding: 30px 64px;
+    padding-top: 0px;
+}
+
+.main-nav li
+{
+    display: inline-block;
+}
+ .main-nav li a
+ {
+     color: green;
+     text-decoration: none;
+     padding: 5px 20px;
+     font-family: "roboto",sans-serif;
+
+ }
+.mian-navLinks
+{
+    
+    text-decoration: blue;
+    padding 6px 25x;
+    border-top-left-radius: 0%;
+}
+aside a {
+    display: block;
+    padding: 20px;
+    text-align: center;
+    border: 3px #454372 solid;
+    border-radius: 8px;
+    margin: 5px;
+    text-decoration: none;
+    color: #454372;
+}
+main {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
 .tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+
+
+
+.main-nav li
+{
+    display: inline-block;
+}
+ .main-nav li a
+ {
+     color: blueviolet;
+     text-decoration: none;
+     padding: 8px 30px;
+     font-family: "roboto",sans-serif;
+
+ }
+
+ h2,h3{
+    color: rgba(12, 8, 223, 0.699);
 }
 
+form{
+    color: brown;
+    padding: 12px 36px;
+
+}
